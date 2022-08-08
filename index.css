@@ -1,0 +1,52 @@
+.background {
+  width: 647px;
+  height: 296px;
+  background: linear-gradient(to left, #008bf0, #d943c9);
+  display: inline-flex;
+  margin: 15px;
+}
+.camera {
+  display: flex;
+  justify-content: center;
+}
+.camera__text {
+  width: 50%;
+  margin: 75px 0px 74px 35px;
+}
+p {
+  margin: 0px;
+  font-family: "Hind Siliguri";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 27px;
+  text-transform: uppercase;
+  color: #f4f9fc;
+
+  opacity: 0.6;
+}
+h1 {
+  margin: 0px;
+  font-family: "Hind Siliguri";
+  font-weight: 600;
+  font-size: 31px;
+  line-height: 40px;
+  color: #f4f9fc;
+}
+a {
+  display: inline-block;
+  margin-top: 7px;
+  text-decoration: none;
+  font-family: "Hind Siliguri";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #f4f9fc;
+}
+.motor {
+  margin-top: 45px;
+}
+.kvadracopter {
+  width: 99%;
+}
