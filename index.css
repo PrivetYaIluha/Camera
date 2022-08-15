@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
 }
-.camera__text {
+.camera_text {
   width: 50%;
   margin: 75px 0px 74px 35px;
 }
